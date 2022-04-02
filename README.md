@@ -1,6 +1,7 @@
 # RTS
 Real time strategy game created in unity, with main focus on stearing, responsive units and group behaviours. I tried to replicate Starcraft II mechanics
 
+https://youtu.be/Pr0yA1Q3zS8
 # code
 ## RtsController
 is responsive for selecting and controlling player's units
